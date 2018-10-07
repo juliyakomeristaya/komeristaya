@@ -21,7 +21,7 @@ public class Task2 {
         for(int i = 0; i < mas.length; i++) {
         mas[i] = (int) (number % 10);
         number = number / 10;
-            //System.out.print(mas[i]);
+
         }
         for(int i = 0; i < mas.length; i++) {
         if(mas[i] > numberMax)
