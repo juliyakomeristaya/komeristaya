@@ -1,4 +1,4 @@
-package Home2;
+package HOME2;
 
 import java.util.Scanner;
 
